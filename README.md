@@ -3,7 +3,7 @@ The Farm Energy Analysis Tool (FEAT), a static, deterministic, data-base model, 
 
 FEAT is database model that organizes information from the literature in a functional and transparent model that can be used to estimate energy use and GHG emissions from crop production.
 
-Authors: 
+Authors:
 Gustavo G.T. Camargo,
 Glenna M. Malcolm,
 Matt R. Ryan,
